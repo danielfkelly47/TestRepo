@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{28ea4e94-94a7-4bec-a9e5-79a53d2fa15c}</ProjectGuid>
-    <RootNamespace>Week2</RootNamespace>
+    <ProjectGuid>{b3110130-c9bc-4871-8549-cbccc7780b4e}</ProjectGuid>
+    <RootNamespace>RegularExpressions</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,11 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="forLoops.cpp" />
-    <ClCompile Include="RegularExpressions.cpp" />
-    <ClCompile Include="StringClassAndStringFunctions.cpp" />
-    <ClCompile Include="StringSubstringsSwappingAndFinding.cpp" />
-    <ClCompile Include="Tutorial73.cpp" />
+    <ClCompile Include="RegualrExpressions.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

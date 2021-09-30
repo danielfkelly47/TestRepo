@@ -1,8 +1,9 @@
+
 # include <iostream>
 # include <string>
 using namespace std;
 
-int main() {
+int main3() {
 	string bucky;
 	cin >> bucky;
 	cout << "The String i entered is:" << bucky << endl;
@@ -27,4 +28,5 @@ int main() {
 	{
 		cout << s1.at(x);
 	}
+	return 0;
 }

@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-int main() {
+int main2() {
 	string s1("OMG I think I am preggy!!");
 	std::cout << s1.substr(17,7)<<endl;
 
@@ -14,10 +14,10 @@ int main() {
 	one.swap(two);
 
 	cout << one << two << endl;
-	string s1("Ham is spam oh yes I am");
+	string m1("Ham is spam oh yes I am");
 
 	std::cout << s1.find("am") << endl;
 
 	std::cout << s1.rfind("am") << endl;
-
+	return 0;
 }
