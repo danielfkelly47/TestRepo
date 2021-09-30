@@ -23,7 +23,7 @@ int main() {
 	s1 = "omgwtfbbq";
 	cout << s1.at(3) << endl;
 
-	for (int x =0; x<s1.length();x++)
+	for (int x =0; x < s1.length();x++)
 	{
 		cout << s1.at(x);
 	}

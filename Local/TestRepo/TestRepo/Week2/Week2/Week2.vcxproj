@@ -142,6 +142,7 @@
     <ClCompile Include="forLoops.cpp" />
     <ClCompile Include="StringClassAndStringFunctions.cpp" />
     <ClCompile Include="StringSubstringsSwappingAndFinding.cpp" />
+    <ClCompile Include="Tutorial73.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
