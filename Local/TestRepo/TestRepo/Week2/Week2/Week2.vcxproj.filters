@@ -21,5 +21,8 @@
     <ClCompile Include="StringClassAndStringFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringSubstringsSwappingAndFinding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
