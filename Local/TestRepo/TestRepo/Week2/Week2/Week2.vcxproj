@@ -143,6 +143,7 @@
     <ClCompile Include="RegularExpressions.cpp" />
     <ClCompile Include="StringClassAndStringFunctions.cpp" />
     <ClCompile Include="StringSubstringsSwappingAndFinding.cpp" />
+    <ClCompile Include="StringWarmUp.cpp" />
     <ClCompile Include="Tutorial73.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
