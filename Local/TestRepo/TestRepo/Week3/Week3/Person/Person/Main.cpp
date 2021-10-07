@@ -1,18 +1,18 @@
 #include <iostream>
 #include <string>
-#include "Programs.h"
+#include "Person.h"
 using namespace std;
 
 class Person {
 public:
 	std::string name_;
 	int age_;
-	
+
 	void PrintName()const {
 		std::cout << name_ << endl;
-		
+
 	}
-	
+
 };
 
 int main() {
@@ -20,7 +20,7 @@ int main() {
 	std::cout << "Welcome to the Intro to Classes" << endl;
 	Person Jim;
 	Jim.name_ = "Jim Harkin";
-	
+
 
 
 	Jim.age_ = 40;
@@ -32,5 +32,3 @@ int main() {
 	return 0;
 
 }
-
-

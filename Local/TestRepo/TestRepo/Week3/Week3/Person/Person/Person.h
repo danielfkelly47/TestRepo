@@ -21,13 +21,13 @@ public:
 
 	Person(std::string name, int age);
 	void setName(std::string name);
-	std:: string getName() const;
+	std::string getName() const;
 
 	void setAge(int age);
 	int getAge()const;
-	
+
 	void PrintName()const {
-	std:cout << name_ << std:: endl;
+	std:cout << name_ << std::endl;
 
 	}
 };

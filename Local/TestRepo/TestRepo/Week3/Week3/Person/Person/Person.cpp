@@ -2,13 +2,13 @@
 // // Author: Daniel Kelly
 // Date: 07/10/2021
 //Description: class declaration header file for the Person Class
-# include "Programs.h"
+# include "Person.h"
 # include <string>
 //
 Person::Person() {
 	std::cout << name_ << "Is Alive!" << endl;
 }
-Person::Person(std::string name) :name_{name} {
+Person::Person(std::string name) :name_{ name } {
 	std::cout << name << "Is Alive" << std::endl;
 
 }
@@ -26,7 +26,7 @@ void Person::PrintName() const {
 }
 void Person::setName(std::string name) {
 	name_ = name;
-	
+
 };
 
 std::string Person::getName() const {
