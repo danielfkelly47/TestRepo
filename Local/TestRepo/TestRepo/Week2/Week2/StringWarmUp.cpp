@@ -34,4 +34,24 @@ int main7() {
 			std::cout << "Yes Shoot them";
 		}
 
+		//Challenge 3 Valid Email
+		char emailAddress;
+		char symbol = '@';
+		char Period = '-';
+
+			if (emailAddress == symbol && Period)
+			{
+				std::cout << "Thank You" << endl;
+			}
+			else
+			{
+				std::cout << "Please ennter a valid email address";
+			}
+
+			// Challenge 4 Caesar Cipher
+			int k;
+			string s;
+
+
+
 }
