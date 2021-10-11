@@ -36,5 +36,8 @@
     <ClCompile Include="Challenge2CamelCase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ceasar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

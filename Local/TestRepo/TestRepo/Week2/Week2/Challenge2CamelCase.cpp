@@ -1,3 +1,4 @@
+//
 #include <iostream>
 #include <string>
 
@@ -5,8 +6,8 @@ using namespace std;
 int checkUpperCase(char c);
 
 int main8() {
-	string s, s1, s2
-		int numWords;
+	string s, s1, s2;
+	int numWords{ 1 };
 	std::cout << "Enter a Came case here";
 	std::cin >> s;
 

@@ -13,7 +13,7 @@ int main7() {
 		}
 		else
 		{
-		std: cout << "I pitty the fool";
+		std:: cout << "I pitty the fool";
 		}
 		return 0;
 

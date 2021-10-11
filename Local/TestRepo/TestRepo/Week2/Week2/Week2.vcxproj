@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ceasar.cpp" />
     <ClCompile Include="Challenge2CamelCase.cpp" />
     <ClCompile Include="forLoops.cpp" />
     <ClCompile Include="RegularExpressions.cpp" />
