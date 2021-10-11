@@ -142,6 +142,7 @@
     <ClCompile Include="Ceasar.cpp" />
     <ClCompile Include="Challenge2CamelCase.cpp" />
     <ClCompile Include="forLoops.cpp" />
+    <ClCompile Include="MarsExploration.cpp" />
     <ClCompile Include="RegularExpressions.cpp" />
     <ClCompile Include="StringClassAndStringFunctions.cpp" />
     <ClCompile Include="StringSubstringsSwappingAndFinding.cpp" />
