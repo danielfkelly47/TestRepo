@@ -20,9 +20,9 @@ int main() {
 	std::cout << "Welcome to the Intro to Classes" << endl;
 	Person Jim;
 	Jim.name_ = "Jim Harkin";
+	
 
-
-
+	
 	Jim.age_ = 40;
 
 	Jim.PrintName();

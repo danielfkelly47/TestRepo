@@ -1,0 +1,5 @@
+#ifndef SFML_GRAPHICS_HPP
+#define SFML_GRAPHICS_HPP
+
+
+#endif // !SMFL_GRAPHICS_HPP

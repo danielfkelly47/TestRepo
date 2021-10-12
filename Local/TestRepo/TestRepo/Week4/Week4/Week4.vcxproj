@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8138a3c3-6a03-4540-b1e3-feced42dc196}</ProjectGuid>
-    <RootNamespace>Person</RootNamespace>
+    <ProjectGuid>{87c167a6-a74e-4f79-83a3-39d1e84ae99f}</ProjectGuid>
+    <RootNamespace>Week4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,13 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Person.h" />
+    <ClCompile Include="graphPoints.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AvoidingliciImplicitConversions.cpp" />
-    <ClCompile Include="ClassesAndObjects.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Person.cpp" />
+    <ClInclude Include="Graphics.hpp" />
+    <ClInclude Include="graphPoints.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
