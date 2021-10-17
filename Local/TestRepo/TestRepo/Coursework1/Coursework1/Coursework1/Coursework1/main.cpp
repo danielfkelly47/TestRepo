@@ -3,7 +3,7 @@
 //#include <SFML/OpenGL.hpp>
 #include "graphPoints.h"
 using namespace std;
-class sf;
+
 
 int main() {
  #pragma region Window Creation
